@@ -10,6 +10,6 @@ python -m venv .venv
 source .venv/bin/activate
 
 **run**
-streamlit pad.py
+streamlit dashboard.py
 bila tidak bisa
-python -m streamlit run pad.py
+python -m streamlit run dashboard.py
